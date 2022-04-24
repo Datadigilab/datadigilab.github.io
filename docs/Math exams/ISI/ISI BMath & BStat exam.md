@@ -94,7 +94,7 @@ Checkout this playlist for recent [ISI BStat & BMath solutions](https://youtube.
 
 | BStat | BMath |
 | :---: | :---: |
-| [2021](BStat-Merit-List-2021.pdf) | [2021](BMath-Merit-List-2021.pdf) |
+| [2021](BST-Merit-List-2021.pdf) | [2021](BMT-Merit-List-2021.pdf) |
 | :---: | :---: |
 | [2020](BStat-Merit-List-2020.pdf) | [2020](BMath-Merit-List-2020.pdf) |
 | :---: | :---: |
