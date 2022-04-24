@@ -35,7 +35,7 @@ When contributing to Mathdigilab, you contribute to various digital platforms li
 ## Payment option
 Payment must be sent to the UPI address given below. Please send me an email with the transaction number or a screenshot so that I can link your payment to your email ID. Thanks for contributing!
 
-### UPI Address: shreyaskali@okaxis
+### UPI Address: mathdigilab@dbs
 
 ---
 ## Contributors
