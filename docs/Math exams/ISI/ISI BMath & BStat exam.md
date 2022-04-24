@@ -87,3 +87,19 @@ You can find all previous year questions here (from the official website):
 Answer key to the UGA part can be found in the ISI TOMATO book published by Indian Statistical Institute.
 
 Recommended - Buy the paperback version [ISI TOMATO](https://www.amazon.in/Test-Mathematics-10-Level-18/dp/8176711098?crid=1YZYNKFZLQ1ZW&keywords=isi+tomato+book+2021-22&qid=1643202425&sprefix=isi+tomato%2Caps%2C178&sr=8-1&linkCode=ll1&tag=shreyaskali-21&linkId=0c928753e110f2516c676dcb2d0b4f4e&language=en_IN&ref_=as_li_ss_tl) official resource by Indian Statistical Institute on amazon.
+
+Checkout this playlist for recent [ISI BStat & BMath solutions](https://youtube.com/playlist?list=PLjF2DElqz-GSu_qzwEBewFP-a0zHO5fXb) by mathsmerizing channel on youtube.
+
+### Merit lists & Cutoffs
+
+| BStat | BMath |
+| :---: | :---: |
+| [2021](BStat-Merit-List-2021.pdf) | [2021](BMath-Merit-List-2021.pdf) |
+| :---: | :---: |
+| [2020](BStat-Merit-List-2020.pdf) | [2020](BMath-Merit-List-2020.pdf) |
+| :---: | :---: |
+| [2019](BStat-Merit-List-2019.pdf) | [2019](BMath-Merit-List-2019.pdf) |
+| :---: | :---: |
+| [2018](BStat-Merit-List-2018.pdf) | [2018](BMath-Merit-List-2018.pdf) |
+| :---: | :---: |
+| [2017](BStat-Merit-List-2017.pdf) | [2017](BMath-Merit-List-2017.pdf) |
