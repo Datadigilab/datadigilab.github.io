@@ -36,6 +36,7 @@ permalink: /
 #### Latest on <b>Mathdigilab</b>
 {: .fs-4 }
 
+- JEE Advanced mathematics papers from 2017 to 2021. Checkout [JEE Advaced](https://mathdigilab.github.io/math-exams/jeeadv) page under math exams.
 - Added the latest issues of CURX Mathematicorum and Mathematical reflections. Checkout the [Magazines](https://mathdigilab.github.io/docs/resources/magazines) page.
 - [Mock Tests](https://mathdigilab.github.io/docs/math-exams/cmi/mocktests/2021) for ISI & CMI UG 2022 exams.
 - [Podcast](https://mathdigilab.github.io/docs/resources/podcasts) section featuring A brief history of Mathematics.
