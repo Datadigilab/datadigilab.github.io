@@ -112,7 +112,7 @@ These mock tests are modeled along the lines of previous years’ questions and 
 credit: cmientranceexam.in
 
 ## Collaborative learning sessions
-These sessions aim at collaborative learning for CMI entrance exam. We will discuss theory as well as practice questions together via online meets. Please mail me along with a screenshot of one time joining fee of Rs. 499. I am planning 2 meets every month till the exam starting from 13th March 2022. Join now!
+These sessions aim at collaborative learning for CMI entrance exam. We will discuss theory as well as practice questions together via online meets. Please mail me along with a screenshot of one time joining fee of Rs. 499.
 
 ### Payment option
 Payment must be sent to the UPI address given below. Please send me an email with the transaction number or a screenshot so that I can link your payment to your email ID. Thanks for contributing!
