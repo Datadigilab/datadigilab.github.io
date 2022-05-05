@@ -85,21 +85,19 @@ You can buy these books from the [CMI](https://mathdigilab.github.io/docs/resour
 ## Previous year questions
 You can find all previous year questions here (from the official website):
 
-### Question papers
+### Question papers & Solutions
 
-- [UG 2021](ugmath2021.pdf)
-- [UG 2020](ugmath2020.pdf)
-- [UG 2019](ugmath2019.pdf)
-- [UG 2018](ugmath2018.pdf)
-- [UG 2017](ugmath2017.pdf)
-
-### Solutions 
-
-- [UG 2021 solutions](ugmath2021-solutions.pdf)
-- [UG 2020 solutions](ugmath2020-solutions.pdf)
-- [UG 2019 solutions](ugmath2019-solutions.pdf)
-- [UG 2018 solutions](ugmath2018-solutions.pdf)
-- [UG 2017 solutions](ugmath2017-solutions.pdf)
+| Question Paper | Solutions |
+| :---: | :---: |
+| [UG 2021](ugmath2021.pdf) | [UG 2021 solutions](ugmath2021-solutions.pdf) |
+| :---: | :---: |
+| [UG 2020](ugmath2020.pdf) | [UG 2020 solutions](ugmath2020-solutions.pdf) |
+| :---: | :---: |
+| [UG 2019](ugmath2019.pdf) | [UG 2019 solutions](ugmath2019-solutions.pdf) |
+| :---: | :---: |
+| [UG 2018](ugmath2018.pdf) | [UG 2018 solutions](ugmath2018-solutions.pdf) |
+| :---: | :---: |
+| [UG 2017](ugmath2017.pdf) | [UG 2017 solutions](ugmath2017-solutions.pdf) |
 
 Alternatively, you can also buy paperback version [CMI TOMATO](https://www.amazon.in/CMI-Tomato-Balasundar-M/dp/1685541429?keywords=cmi+entrance+exam+books&qid=1643202046&sprefix=cmi+%2Caps%2C182&sr=8-2&linkCode=ll1&tag=shreyaskali-21&linkId=d5d23b0efe66e3aa10b8473c649f3303&language=en_IN&ref_=as_li_ss_tl) by M Balasundar on amazon.
 
