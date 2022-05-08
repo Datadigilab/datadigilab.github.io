@@ -20,6 +20,11 @@ ISI offers two programmes at the undergraduate level, BMath at ISI Bangalore & B
 {:toc}
 
 ---
+## Latest Question Paper
+
+| UGA | UGB |
+| :---: | :---: |
+| [2022](Isi2022_uga.pdf) | [2022](Isi2022_ugb.pdf) |
 
 ## About the programme
 [Brochure 2022](brochure_0.pdf)
