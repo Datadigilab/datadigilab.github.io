@@ -44,6 +44,13 @@ permalink: /
 
 ---
 
+#### Annoucements
+{: .fs-4 }
+
+- All the best everyone for ISI BMath / BStat 2022. We will try to publish related info soon on this website.
+
+---
+
 ## Math competitions & Entrance exams
 Find all the strategies and get to know about different [Math competitions & entrance exams](https://mathdigilab.github.io/docs/math-exams) along with recommended course structures, resources, collaborative learning sessions & mock tests.
 
