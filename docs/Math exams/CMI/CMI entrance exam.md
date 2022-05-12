@@ -123,6 +123,66 @@ These mock tests are modeled along the lines of previous years’ questions and 
 
 credit: cmientranceexam.in
 
+## CMI entrance exam cutoff
+
+The cutoff has been around 40% for the objective section and 40-50% overall. The objective section is used for screening.<br>
+
+CMI does not publish the cutoff marks but they have responded to individual requests in the past. The scores shown below were shared by former students who were privy to this data.
+<br>
+
+<!--
+[Subhayan Saha](https://www.quora.com/profile/Subhayan-Saha)
+-->
+
+### 2021 cutoff marks
+
+In 2021, CMI used an unconventional criteria for admission. The cut-off for  Part A was 17/40 for everyone. More weightage was given to Part B marks. In the general category with scholarship, students were admitted if they had >=61 marks in total or if they had 39 or more marks in Part B. So, a student who got 17 marks in Part A and 39 marks in Part B was still admitted with scholarship. But a student with 22 marks in Part A and 38 marks in Part B was NOT admitted in that category.
+
+
+Type | General |  Reserved
+-----|------|----
+With scholarship| 61/100 or 39/60 in Part B | 57/100 or 35/60 in Part B
+Without scholarship| 56/100 or 30/60 in Part B | 50/100 or 28/60 in Part B
+
+
+There was no waiting list.
+
+### 2020 cutoff marks
+
+The cutoff marks for the year 2020 are given below. The marks are out of 94 instead of 100 since one question had a mistake.
+
+Type | General |  Reserved
+-----|------|----
+With scholarship| 54/94 | 44/94
+Without scholarship| 48/94 | 40/94
+Waiting list| 45/94 | 38/94
+
+### Previous year cutoffs
+
+The cutoff marks for the previous years are given below.
+
+| Year | Objective (40 marks) | Overall |
+|---|--|--|
+2016 | 14 | 62/124 |
+2017 | 15 | 60/125 |
+2018 | 15 | 50/125 |
+2019 | 16 | 52/100 |
+2020 | 16 | 48/94  |
+2021 | 17 | 56/100  |
+
+## Admission rate
+
+Acceptance offers are sent to around 90 candidates and about half of them enroll. This is the reason why the number varies from year to year. Approximate numbers are given below.
+
+| Year | # Test-takers | # Offers | # Students enrolled
+|-----|----|--|
+2015 | 4000 | 70 | 40
+2016 | 4000 | 90 | 44
+2017 | 4000 | 90 | 45
+2018 | 5000 | 95 | 48
+2019 | 5500 | 100 | 61
+
+
 ## Collaborative learning sessions
 These sessions aim at collaborative learning for CMI entrance exam. We will discuss theory as well as practice questions together via online meets. Please mail me along with a screenshot of one time joining fee of Rs. 499.
 
