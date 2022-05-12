@@ -38,16 +38,30 @@ CMI entrance exam this year is scheduled on
 
 | Date | Time |
 | :---: | :---: |
-| `22 MAY 2022` | `2 to 5 PM` |
+| `22 MAY 2022` | `2 to 5:30 PM` |
 
 Here is the schedule for applications for the session starting in August, 2022 (academic year 2022–2023).
 
 - Applications open (online): Monday, 21 March, 2022
 - Last date to fill out online applications, (including online payments): Saturday, 30 April, 2022, 23:59 IST
-- Admit Cards to be available online: Tuesday, 10 May, 2022.
+- Admit Cards to be available online: Thursday, 12 May, 2022.
 - Date of the Entrance Examination: Sunday, 22 May, 2022.
 - Date of announcement of results: Approximately one month from the date of the entrance examination.
 - Academic session starts: Monday, 1 August, 2022.
+
+## Examination pattern update
+As in recent years, the exam is being conducted using the TCS iON platform. For security reasons, the question paper will be distributed in electronic form to all centres. Each candidate will be seated at a separate computer and will be able to read the questions on the screen.
+
+In all the exams, Part A consists of objective questions that have to be answered directly on the computer.
+
+An answer booklet will be provided to write your answers on paper for the remaining parts, as usual.
+
+The format of each type of answer booklet is given below. Designated space is provided for each answer. There are blank sheets for rough work at the end. Please familiarize yourself with the format of the answer booklet for the exam you are going to write.
+
+[BSc exam answer booklet, 22 May](CMI-2022-BSc-answer-booklet-22may2022.pdf)
+
+- This year the subjective part will have 6 question worth 80 points.
+- The timing of the paper is increased by half an hour. 
 
 ## Preparation strategies
 For both ISI & CMI, follow these books thoroughly and the books numbered from 1 to 6 should be completed before the exams. This course material covers understanding of theory, previous year problems, some recreational problems (asked especially in CMI exam) & a methods to write your proofs effectively. Try convering as many chapters as you can and prepare like your are going to become a mathematician!
