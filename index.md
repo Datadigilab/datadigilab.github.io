@@ -36,11 +36,11 @@ permalink: /
 #### Latest on <b>Mathdigilab</b>
 {: .fs-4 }
 
-- ISI 2022 UGA/UGB Paper uploaded! Solutions will be uploaded soon. Checkout [here](https://mathdigilab.github.io/docs/math-exams/isi) 
+- CMI UG entrance exam update. Check out the change in exam pattern [here](https://mathdigilab.github.io/docs/math-exams/cmi).
+- ISI 2022 UGA/UGB Paper uploaded! Solutions will be uploaded soon. Checkout [here](https://mathdigilab.github.io/docs/math-exams/isi). 
 - JEE Advanced mathematics papers from 2017 to 2021. Checkout [JEE Advaced](https://mathdigilab.github.io/docs/math-exams/jeeadv) page under math exams.
 - Added the latest issues of CURX Mathematicorum and Mathematical reflections. Checkout the [Magazines](https://mathdigilab.github.io/docs/resources/magazines) page.
 - [Mock Tests](https://mathdigilab.github.io/docs/math-exams/cmi/mocktests/2021) for ISI & CMI UG 2022 exams.
-- [Podcast](https://mathdigilab.github.io/docs/resources/podcasts) section featuring A brief history of Mathematics.
 {: .bg-grey-lt-000 .p-6 }
 
 ---
