@@ -63,6 +63,9 @@ The format of each type of answer booklet is given below. Designated space is pr
 - This year the subjective part will have 6 question worth 80 points.
 - The timing of the paper is increased by half an hour. 
 
+Read these instructions carefull (official instructions from CMI)
+[CMI 2022 BSc Instructions](CMI-2022-BSc-Instructions.pdf)
+
 ## Preparation strategies
 For both ISI & CMI, follow these books thoroughly and the books numbered from 1 to 6 should be completed before the exams. This course material covers understanding of theory, previous year problems, some recreational problems (asked especially in CMI exam) & a methods to write your proofs effectively. Try convering as many chapters as you can and prepare like your are going to become a mathematician!
 
