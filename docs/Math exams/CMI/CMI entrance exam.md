@@ -185,7 +185,7 @@ Prove that \( XR = XP \).
 ---
 
 <p>
-<b>B2</b>. <i>This question was straight from a previous <a href="/docs/mock_test/001_feb_7_nt_trig/">CMI Tomato's mock test</a>!</i><br>
+<b>B2</b>.
 
 (i) Consider a coordinate grid made up of horizontal and vertical lines of the form \(x=k\) and \(y=k\), where \(k\in \mathbb{Z}\).
 Consider a line segment OA where O is the origin and A is the point \(  (10,4) \). Notice that this line segment passes through the
