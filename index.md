@@ -15,7 +15,7 @@ permalink: /
 {: .fw-700, .fs-10}
 
 <h4 align="center">Explore & Learn Math</h4>
-<p align="center">One-stop place for math enthusiasts.</p>
+<p align="center">A digital space for math stuff</p>
 
 ---
 
@@ -36,11 +36,10 @@ permalink: /
 #### Latest on <b>Mathdigilab</b>
 {: .fs-4 }
 
-- CMI UG 2022 paper (unofficial) available [here](https://mathdigilab.github.io/docs/math-exams/cmi).
-- ISI 2022 UGA/UGB Paper uploaded! Solutions will be uploaded soon. Checkout [here](https://mathdigilab.github.io/docs/math-exams/isi). 
+- CMI UG 2022 paper (official) available [here](https://mathdigilab.github.io/docs/math-exams/cmi).
+- ISI 2022 UGA/UGB Paper updated! Checkout [here](https://mathdigilab.github.io/docs/math-exams/isi). 
 - JEE Advanced mathematics papers from 2017 to 2021. Checkout [JEE Advaced](https://mathdigilab.github.io/docs/math-exams/jeeadv) page under math exams.
 - Added the latest issues of CURX Mathematicorum and Mathematical reflections. Checkout the [Magazines](https://mathdigilab.github.io/docs/resources/magazines) page.
-- [Mock Tests](https://mathdigilab.github.io/docs/math-exams/cmi/mocktests/2021) for ISI & CMI UG 2022 exams.
 {: .bg-grey-lt-000 .p-6 }
 
 ---
@@ -48,7 +47,9 @@ permalink: /
 #### Annoucements
 {: .fs-4 }
 
-- All the best everyone for ISI BMath / BStat 2022. We will try to publish related info soon on this website.
+- Datadigilab launching soon...
+- Congrats everyone who got selected for ISI BMath / BStat or CMI 2022. For those who didn't better luck next time. Make full utilization of all the resources available on this website and participate in the upcoming mock tests & collaborative learning session.
+- Adding Olympiad section soon for IOQM preperation.
 
 ---
 
