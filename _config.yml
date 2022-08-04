@@ -101,7 +101,7 @@ color_scheme: "dark"
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
-ga_tracking: G-EKVHCCZY44
+ga_tracking: G-3X5KXTWKZD
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 plugins:
