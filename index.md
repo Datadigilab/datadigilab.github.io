@@ -13,6 +13,7 @@ permalink: /
  </p>--->
 
 <h1 align="center"><strong> Datadigilab </strong></h1>
+{: .fw-700, .fs-10}
 
 <h4 align="center">Data Science | Machine Learning | Statistics | Deep Learning</h4>
 <p align="center">One-stop place for Data Science & Machine learning enthusiasts.</p>
