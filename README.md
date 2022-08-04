@@ -12,10 +12,7 @@
 
 ### What you get on <b>Datadigilab</b>?
 
-- Math resources (Academic & recreational Books, Magazines, links to useful websites and youtube channels).
-- Guides to Math competitions & entrance exams along with recommended course structures, resources, collaborative learning sessions & mock tests.
-- Weekly puzzles & problems to discover the joy of mathematics.
-- Personalized digital notes for college math courses downloadable in PDF format.
+- 
 {: .bg-grey-lt-000 .p-6 }
 
 ---
@@ -23,16 +20,8 @@
 #### Latest on <b>Datadigilab</b>
 {: .fs-4 }
 
-- JEE Advanced mathematics papers from 2017 to 2021. Checkout [JEE Advaced](https://mathdigilab.github.io/docs/math-exams/jeeadv) page under math exams.
-- Added the latest issues of CURX Mathematicorum and Mathematical reflections. Checkout the [Magazines](https://mathdigilab.github.io/docs/resources/magazines) page.
-- [Mock Tests](https://mathdigilab.github.io/docs/math-exams/cmi/mocktests/2021) for ISI & CMI UG 2022 exams.
-- [Podcast](https://mathdigilab.github.io/docs/resources/podcasts) section featuring A brief history of Mathematics.
+- 
 {: .bg-grey-lt-000 .p-6 }
-
----
-
-## Math competitions & Entrance exams
-Find all the strategies and get to know about different [Math competitions & entrance exams](https://mathdigilab.github.io/docs/math-exams) along with recommended course structures, resources, collaborative learning sessions & mock tests.
 
 ---
 
