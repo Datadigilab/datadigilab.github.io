@@ -41,13 +41,12 @@ permalink: /
 - Added the latest issues of CURX Mathematicorum and Mathematical reflections. Checkout the [Magazines](https://mathdigilab.github.io/docs/resources/magazines) page.
 - [Mock Tests](https://mathdigilab.github.io/docs/math-exams/cmi/mocktests/2021) for ISI & CMI UG 2022 exams.
 - [Podcast](https://mathdigilab.github.io/docs/resources/podcasts) section featuring A brief history of Mathematics.
-{: .bg-blue-300 .p-6 }
+{: .bg-blue-100 .p-6 }
 
 ---
 
-## Math competitions & Entrance exams
-Find all the strategies and get to know about different [Math competitions & entrance exams](https://mathdigilab.github.io/docs/math-exams) along with recommended course structures, resources, collaborative learning sessions & mock tests.
-
+## Competitions & Projects
+Get hands on experience by participating in online competitions and solving case studies/ projects. Checkout [Competitions & Projects](https://datadigilab.github.io/docs/competitions) page.
 ---
 
 ## Resources
@@ -67,7 +66,7 @@ When contributing to Datadigilab, you contribute to the creators of this website
 Payment must be sent to the UPI address given below. Please send me an email with the transaction number or a screenshot so that I can link your payment to your email ID. Thanks for contributing!
 
 **UPI Address: shreyaskali@dbs**
-{: .bg-blue-300 .p-6 }
+{: .bg-blue-100 .p-6 }
 
 ---
 
