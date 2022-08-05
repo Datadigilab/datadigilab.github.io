@@ -30,7 +30,7 @@ permalink: /
 - Guides to Math competitions & entrance exams along with recommended course structures, resources, collaborative learning sessions & mock tests.
 - Weekly puzzles & problems to discover the joy of mathematics.
 - Personalized digital notes for college math courses downloadable in PDF format.
-{: .bg-grey-lt-000 .p-6 }
+{: .bg-blue-100 .p-6 }
 
 ---
 
@@ -41,7 +41,7 @@ permalink: /
 - Added the latest issues of CURX Mathematicorum and Mathematical reflections. Checkout the [Magazines](https://mathdigilab.github.io/docs/resources/magazines) page.
 - [Mock Tests](https://mathdigilab.github.io/docs/math-exams/cmi/mocktests/2021) for ISI & CMI UG 2022 exams.
 - [Podcast](https://mathdigilab.github.io/docs/resources/podcasts) section featuring A brief history of Mathematics.
-{: .bg-grey-lt-000 .p-6 }
+{: .bg-blue-300 .p-6 }
 
 ---
 
@@ -67,7 +67,7 @@ When contributing to Datadigilab, you contribute to the creators of this website
 Payment must be sent to the UPI address given below. Please send me an email with the transaction number or a screenshot so that I can link your payment to your email ID. Thanks for contributing!
 
 **UPI Address: shreyaskali@dbs**
-{: .bg-grey-lt-000 .p-6 }
+{: .bg-blue-300 .p-6 }
 
 ---
 
@@ -75,4 +75,4 @@ Payment must be sent to the UPI address given below. Please send me an email wit
 
 - **Shreyas Kali** <br>
 Contact: datadigilab@gmail.com <br> Copyright &copy; 2021-2022 Datadigilab.
-{: .bg-grey-lt-000 .p-6 }
+{: .bg-blue-100 .p-6 }
